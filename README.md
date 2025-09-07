@@ -1,4 +1,4 @@
-# Project EverDo: Docker 기반 라즈베리파이 클러스터 구축 가이드
+# Docker 기반 라즈베리파이 클러스터 구축 가이드
 
 ## 개요
 
