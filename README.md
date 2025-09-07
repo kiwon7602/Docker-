@@ -35,8 +35,8 @@
 
 각 서버의 상세한 구축 절차는 아래 문서를 참조하십시오.
 
-- [**➡️ 1. imskw01 (Nginx) 게이트웨이 서버 구축**](https://www.google.com/search?q=./docs/imskw01-nginx-setup.md)
-- [**➡️ 2. imskw02 (Spring WAS) 애플리케이션 서버 구축**](https://www.google.com/search?q=./docs/imskw02-was-setup.md)
+- [**➡️ 1. imskw01 (Nginx) 게이트웨이 서버 구축**](https://github.com/kiwon7602/imskw01_gateway_server)
+- [**➡️ 2. imskw02 (Spring WAS) 애플리케이션 서버 구축**](https://github.com/kiwon7602/imskw02_was_server)
 
 ## 애플리케이션 배포 및 실행
 
